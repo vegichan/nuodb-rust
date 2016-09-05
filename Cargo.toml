@@ -1,0 +1,6 @@
+[package]
+name = "nuodb-rust"
+version = "0.1.0"
+authors = ["Martin Kysel <code@martinkysel.com>"]
+
+[dependencies]
