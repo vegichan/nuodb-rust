@@ -1,7 +1,9 @@
 ==============
 NuoDB - Rust
 ==============
-https://travis-ci.org/vegichan/nuodb-rust.svg?branch=master
+
+.. image:: https://travis-ci.org/vegichan/nuodb-rust.svg?branch=master
+ :target: https://travis-ci.org/vegichan/nuodb-rust
 
 .. contents::
 
