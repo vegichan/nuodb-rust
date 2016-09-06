@@ -2,8 +2,8 @@
 NuoDB - Rust
 ==============
 
-.. image:: https://travis-ci.org/vegichan/nuodb-rust.svg?branch=master
- :target: https://travis-ci.org/vegichan/nuodb-rust
+.. image:: https://travis-ci.org/nuodb/nuodb-rust.svg?branch=master
+ :target: https://travis-ci.org/nuodb/nuodb-rust
 
 .. contents::
 
@@ -11,6 +11,10 @@ This package contains the community driven pure-Rust NuoDB_ client library
 
 Requirements
 ------------
+
+* Rust -- one of the following:
+
+  - Rustc >= 1.10.0 
 
 * NuoDB -- one of the following:
 
@@ -33,6 +37,8 @@ NuoDB Documentation: http://doc.nuodb.com/display/DOC/NuoDB+Online+Documentation
 
 License
 -------
+
+NuoDB-Rust is licensed under a `BSD 3-Clause License <https://github.com/nuodb/nuodb-rust/blob/master/LICENSE>`_.
 
 .. _Documentation: http://doc.nuodb.com/display/doc/
 .. _NuoDB: http://www.nuodb.com/
