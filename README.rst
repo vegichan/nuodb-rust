@@ -38,7 +38,7 @@ NuoDB Documentation: http://doc.nuodb.com/display/DOC/NuoDB+Online+Documentation
 License
 -------
 
-NuoDB-Rust is licensed under a `BSD 3-Clause License <https://github.com/nuodb/nuodb-rust/blob/master/LICENSE>`_.
+NuoDB-Rust is licensed under a `BSD 3-Clause License <https://github.com/nuodb/nuodb-rust/blob/master/LICENSE>`_
 
 .. _Documentation: http://doc.nuodb.com/display/doc/
 .. _NuoDB: http://www.nuodb.com/
